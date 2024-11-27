@@ -109,7 +109,7 @@ Now it's time to run the Firebase Emulator Suite and the FriendlyEats Android ap
 
 ### Run the emulators
 
-In your terminal from within the `friendlyeats-android` directory run `firebase emulators:start` to start up the Firebase Emulators. You should see logs like this:
+In your terminal from within the `friendlyeats-android` directory run `firebase emulators:start c` to start up the Firebase Emulators. You should see logs like this:
 
 ```console
 $ firebase emulators:start
